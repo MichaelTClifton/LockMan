@@ -1,0 +1,26 @@
+{
+  "name": "lockman",
+  "version": "1.0.0",
+  "description": "Lock management application for maintaining and authorizing users interacting with smart locks in a smarthome environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelTClifton/LockMan.git"
+  },
+  "keywords": [
+    "Smarthome",
+    "Smart",
+    "Lock",
+    "Management",
+    "Database"
+  ],
+  "author": "MrCliftron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelTClifton/LockMan/issues"
+  },
+  "homepage": "https://github.com/MichaelTClifton/LockMan#readme"
+}
