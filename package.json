@@ -2,12 +2,12 @@
   "name": "lockman",
   "version": "1.0.0",
   "description": "Lock management application for maintaining and authorizing users interacting with smart locks in a smarthome environment.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc",
-    "dev": "ts-node-dev --respawn --transpileOnly ./Source/index.ts",
-    "prod": "tsc && node ./build/index.js"
+    "dev": "ts-node-dev --respawn --transpileOnly ./Source/app.ts",
+    "prod": "tsc && node ./build/app.js"
   },
   "repository": {
     "type": "git",
