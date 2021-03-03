@@ -34,7 +34,7 @@
     "fs": "0.0.1-security",
     "habitat": "^3.1.2",
     "mongoose": "^5.8.9",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.5"
   },
